@@ -6,7 +6,7 @@
 
 This project implements .NET applications with C#
 
-## Team Members
+### Team Members
 
 - Abbigail Nelson
 - Brady Lee Burgener
