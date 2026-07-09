@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHpPxOOpD0s=",
+  "success": true,
+  "projectFilePath": "/Users/m.curtis/Documents/Education/Pathways/2026/block_4/cse325/TheSevens/TheSevens.csproj",
+  "expectedPackageFiles": [
+    "/Users/m.curtis/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.7/microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
