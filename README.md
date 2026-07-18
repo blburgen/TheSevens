@@ -15,7 +15,6 @@ This project implements .NET applications with C#
 - Lok Yin Arthur Leung
 - Marcellous Curtis
 - Nathan Wagstaff
-- Uriyah Sam
 
 # Development Environment
 
