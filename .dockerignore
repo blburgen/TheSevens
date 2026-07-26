@@ -1,0 +1,5 @@
+# Keep the build context small and avoid copying local build output
+bin/
+obj/
+.git/
+.vs/
