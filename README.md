@@ -9,7 +9,6 @@ This project implements .NET applications with C#
 ### Team Members
 
 - Abbigail Nelson
-- Brady Lee Burgener
 - Cody Smith
 - Egor Aleksandrovich Sotnikov
 - Lok Yin Arthur Leung
