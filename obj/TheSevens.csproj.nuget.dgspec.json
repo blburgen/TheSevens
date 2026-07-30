@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/m.curtis/Documents/Education/Pathways/2026/block_4/cse325/TheSevens/TheSevens.csproj": {}
+    "C:\\Users\\scody\\OneDrive\\Smith, Cody\\CSE325\\FinalProject\\TheSevens\\TheSevens.csproj": {}
   },
   "projects": {
-    "/Users/m.curtis/Documents/Education/Pathways/2026/block_4/cse325/TheSevens/TheSevens.csproj": {
+    "C:\\Users\\scody\\OneDrive\\Smith, Cody\\CSE325\\FinalProject\\TheSevens\\TheSevens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/m.curtis/Documents/Education/Pathways/2026/block_4/cse325/TheSevens/TheSevens.csproj",
+        "projectUniqueName": "C:\\Users\\scody\\OneDrive\\Smith, Cody\\CSE325\\FinalProject\\TheSevens\\TheSevens.csproj",
         "projectName": "TheSevens",
-        "projectPath": "/Users/m.curtis/Documents/Education/Pathways/2026/block_4/cse325/TheSevens/TheSevens.csproj",
-        "packagesPath": "/Users/m.curtis/.nuget/packages/",
-        "outputPath": "/Users/m.curtis/Documents/Education/Pathways/2026/block_4/cse325/TheSevens/obj/",
+        "projectPath": "C:\\Users\\scody\\OneDrive\\Smith, Cody\\CSE325\\FinalProject\\TheSevens\\TheSevens.csproj",
+        "packagesPath": "C:\\Users\\scody\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\scody\\OneDrive\\Smith, Cody\\CSE325\\FinalProject\\TheSevens\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/m.curtis/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\scody\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -38,16 +39,17 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.7, )",
+              "version": "[10.0.9, )",
               "autoReferenced": true
             }
           },
@@ -70,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
