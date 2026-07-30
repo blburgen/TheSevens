@@ -2,6 +2,10 @@ using TheSevens.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Listen on the port Render provides (falls back to 8080 for local runs).
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
